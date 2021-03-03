@@ -1,5 +1,4 @@
 import './App.css'
-import ReactAudioPlayer from 'react-audio-player'
 import BlackEarth from './assets/Black Earth.mp3'
 import NameLess2 from './assets/SemNome-2.mp3'
 import Sodom from './assets/Sodom.mp3'
